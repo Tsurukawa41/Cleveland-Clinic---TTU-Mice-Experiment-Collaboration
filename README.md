@@ -22,8 +22,13 @@ We provide figures to illustrate the bivariate gene performances (located in the
 ### Results Overview
 The results are stored in the Excel worksheet `Results_TTU.xlsx`, which contains the top 100 genes identified in each of the the transcriptomic and proteomic datasets.
 
+### Feature Selection & Multiomics Methodology
+
+- The PowerPoint presentations **Preliminary Feature Selection** and **Random Forest Methodology** provide details on our preliminary feature selection using the Relief-F algorithm, and the attempt to implement a multiomics approach using random forest models.
+- Despite our efforts, the multiomics methodology using random forests did not yield better performance than single-modality approaches. This code can be found in the notebook **Notebooks/Exercise_Experiments.ipynb**.
+
 ---
 
 ## Contact
 
-For any questions, please contact: [contact_email@ttu.edu](mailto:contact_email@ttu.edu)
+For any questions, please contact: [fetsuruk@ttu.edu](mailto:fetsuruk@ttu.edu)

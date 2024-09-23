@@ -4,8 +4,6 @@
 
 The project uses multiomics data from CCF in an experiment with mice subjected to wheel exercise and/or treated with an injection of ammonium acetate (AmAc).
 
-## Methodology
-
 ### Bivariate Ranking
 We developed a **bivariate ranking methodology** to prioritize genes based on their significance across both transcriptomic and proteomic datasets. This technique involves the following steps:
 
